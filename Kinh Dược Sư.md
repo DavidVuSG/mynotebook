@@ -376,6 +376,9 @@ Phật nói lời này, chư đại Bồ tát, bát bộ Thiên long, tất cả
 DƯỢC SƯ QUÁN ĐẢNH CHƠN NGÔN
 Nam mô bạt già phạt đế bệ sát xả, lủ rô thích lưu ly bác lặt bà hắc ra xà giả. Đát tha yết đa gia a ra ha đế tam miệu tam bột đà gia đát điệt tha. Án bệ sát thệ, bệ sát thệ, bệ sát xả, tam một yết đế tóa ha. (3 lần)
 
+**==Tad-ya-ta: Om Bhai-sha-jye Bhai-sha-jye Maha Bhai-sha-jye Ra-ja Sa-mud-ga-te Sva-ha==**
+
+
 Giải kiết, giải kiết, giải oan kiết
 
 Nghiệp chướng bao đời đều giải hết
