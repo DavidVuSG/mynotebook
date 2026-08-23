@@ -8,6 +8,9 @@ anydoc "file" \
 ls -lh ~/anydoc-output
 
 
+:
+	anydoc '/home/nguyenvuquang/Downloads/luat cong doan 2024.pdf' -o ~/Documents/anydoc-output/luat-cong-doan-2024.md
+
 # Scan ORD
 
 ocrmypdf -l vie+eng \
