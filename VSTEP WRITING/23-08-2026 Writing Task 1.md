@@ -128,3 +128,25 @@ Your sincerely,
 Nguyen VU
   
 ```
+
+
+``` Grammarly Fix
+
+Dear Alex,
+
+  
+How are you now? I hope you and your family are doing well. Thank you for your last letter. It's so great to hear from you again. I apologise for not writing to you sooner. I have been really busy with my job. I am writing a letter to answer your question. I am so excited about that.
+
+Firstly, I often read financial magazines about topics such as stocks, cryptocurrency and the Vietnam economy. One of those, I am so interested in updating this headline news economy, and helping me with my work as a data analyst of economics.
+
+Secondly, my job has more conflicts and is heavy, I always read in my free time and update every day, maybe I rarely buy them. I think the last time I bought a paper magazine was 2 months ago. 
+
+Finally, overall, I think the magazine helps me at work. Because I subscribe to news online, I prefer reading magazines online. It is easy to spread all topics, touch the headlines news instantly, and read all analysis topics quickly and conveniently. 
+
+Well, that's all from me for now, Alex. I am really looking forward to hearing from you. Please remember to write me a letter whenever you have some free time, and let me know what you think about my letter. Shall we all update?
+
+Your sincerely,
+
+Nguyen VU
+
+```
