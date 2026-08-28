@@ -150,3 +150,24 @@ Your sincerely,
 Nguyen VU
 
 ```
+
+
+```Revise new content
+
+Dear Alex,
+
+How are you now? I hope you and your family are doing well. Thank you for your last letter. It's sound great to hear about new job, and your updates again. I apologise for not writing to you sooner. I have been really busy with my job recently. And now I am writing the letter to answer your questions, so on I am excited about this topic.
+
+Firstly, I often read travel and food maganzine about Vietnamese attractions, tradition culture and food. One of that, I am keen on Vietnamese people and many place I never know. If I have free time or day off, I often read them to relax and update about something new places. With photos and contents in magazine, help me feel comfort.
+
+Sencondly, I buy them weekly, which line up on rack store when I going by walk to my company. Beside that, I have been recently read e-magazine on smart phone and tablet, it's so easy to reach contents. 
+
+Finally, I prefer reading magazine on paper, and I always have a least of them on my bag when I taking on bus. But I also feel confortable to touch papers and feel relax with smell of new magazine instead of disturb about notifications on smart phone.
+
+Well, that's all from me, Alex. I am really looking forward to hearing from you. Please remember to write me a letter whenever you have some free time, and let me know what you think about my letter.
+
+Your sincerely
+
+Nguyen Vu
+
+```
