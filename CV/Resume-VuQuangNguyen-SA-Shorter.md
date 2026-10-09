@@ -1,6 +1,5 @@
 # Vũ Quang Nguyên — CV
 
-> Bản Markdown được chuyển từ PDF. Nội dung được giữ theo bản gốc; các chi tiết chưa được xác minh hoặc không nhất quán giữa hai ngôn ngữ không tự ý sửa.
 
 ## Bản tiếng Việt
 
@@ -37,7 +36,8 @@
 
 ### The New District — Kế Toán
 **Bán Hàng, Tiền Gửi Ngân Hàng, Công Cụ Dụng Cụ & Tài Sản Cố Định**
-*11/2024 – Hiện tại*
+
+**11/2024 – Hiện tại**
 
 - Phụ trách hạch toán mảng bán hàng, tiền gửi ngân hàng, công cụ dụng cụ và tài sản cố định trên phần mềm MISA; đảm bảo sổ sách luôn khớp đúng và đối chiếu chính xác với dữ liệu trên MISA.
 - Trực tiếp lập và phát hành hóa đơn GTGT đầu ra, xử lý hóa đơn thay thế theo yêu cầu của kế toán tổng hợp và kế toán trưởng; xử lý các trường hợp hoàn tiền cho khách hàng.
