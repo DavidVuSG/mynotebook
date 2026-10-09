@@ -48,7 +48,7 @@
 - Thực hiện kiểm kê tài sản định kỳ tại các chi nhánh; theo dõi phân bổ, điều chuyển tài sản giữa các chi nhánh và cập nhật chính xác, đầy đủ trên sổ sách MISA.
 #### MPE Điện Mạnh Phương — Tây Ninh | Kế toán bán hàng - kho (SAP-WMS)
 
-**10/2022–04/2024**
+**04/2022–10/2024**
 
 - Tiếp nhận, kiểm tra và theo dõi đơn hàng trên SAP ERP qua các T-code VA01/VA02/VA03 (tạo & quản lý Sales Order); đối chiếu với thực tế xuất kho đảm bảo khớp số lượng, series danh mục và phù hợp theo đối tượng khách hàng.
 - Theo dõi và phân bổ doanh thu theo kênh bán hàng qua VF44, KE30; tổng hợp báo cáo doanh thu định kỳ, phân tích biến động và hỗ trợ Ban Giám đốc đánh giá hiệu quả từng kênh. Xử lý hóa đơn bán hàng trên SAP qua VF01/VF02/VF03, thực hiện lập, phát hành và điều chỉnh hóa đơn điện tử, kiểm tra tính khớp giữa hóa đơn – đơn bán hàng – phiếu xuất kho.
@@ -59,7 +59,7 @@
 
 #### Phúc Thịnh Food — Thủ Đức | Kế toán bán hàng (MISA AMIS / Odoo)
 
-**05/2020–10/2022**
+**05/2020–03/2022**
 
 - **Quản lý đơn hàng và bán hàng:** Quản lý và xử lý đơn hàng cho các hệ thống bán lẻ lớn (BHX, Winmart, AEON, Big C, Co.op Satra…); theo dõi tiến độ giao hàng, đảm bảo đúng số lượng, thời gian và điều khoản hợp đồng.
 - Theo dõi và quản lý công nợ phải thu khách hàng; đối chiếu số liệu bán hàng định kỳ với chứng từ, kiểm soát rủi ro và xử lý chênh lệch. Quản lý công nợ phải trả nhà cung cấp; lập Ủy nhiệm chi (UNC), theo dõi thanh toán và đảm bảo đúng hạn theo điều khoản hợp đồng.
@@ -123,7 +123,7 @@ Aspiring to advance my career in office management and team leadership, where I 
 
 #### MPE – Manh Phuong Electric | Accountant / Site Supervisor
 
-**10/2022–04/2024**
+**04/2022–10/2024**
 
 - Received, verified, and tracked sales orders on SAP ERP via T-codes VA01/VA02/VA03; reconciled against actual stock issuance to ensure accuracy in quantity, product series, and customer-specific requirements.
 - Processed billing documents via VF01/VF02/VF03; issued, adjusted, and managed e-invoices, performing invoice-to-order-to-delivery matching. Tracked and allocated revenue by sales channel via VF44/KE30; prepared periodic revenue reports and supported management in evaluating channel performance.
