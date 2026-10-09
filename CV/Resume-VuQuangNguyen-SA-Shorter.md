@@ -134,7 +134,7 @@ Aspiring to advance my career in office management and team leadership, where I 
 
 #### Phúc Thịnh Food | Sales Accountant
 
-**05/2020–10/2022**
+**05/2020–03/2022**
 
 - Managed and processed sales orders for major retail chains (BHX, Winmart, AEON, Big C, Co.op Satra); monitored delivery progress to ensure accuracy, timeliness, and compliance with contract terms.
 - Monitored and managed accounts receivable (AR); performed periodic reconciliation with supporting documents and resolved discrepancies.
