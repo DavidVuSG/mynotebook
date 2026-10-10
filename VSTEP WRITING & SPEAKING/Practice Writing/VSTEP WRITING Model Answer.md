@@ -1,4 +1,4 @@
-VSTEP WRITING Model Answer  
+
   
 BÁM SÁT ĐỀ THI THẬT - BAND B2+  
   
@@ -8,13 +8,10 @@ You have recently decided to keep a pet, and you are interested in buying one fr
   
 Write an email to the pet shop. In your email, you should:  
   
-say what kind of pet you are interested in;  
-  
-ask about the pet's age, health and characteristics;  
-  
-ask about the price and what food or equipment the pet needs;  
-  
-ask whether the shop provides any advice or support after purchase.  
+- say what kind of pet you are interested in;  
+- ask about the pet's age, health and characteristics;  
+- ask about the price and what food or equipment the pet needs;  
+- ask whether the shop provides any advice or support after purchase.  
   
 Write at least 120 words.  
   
