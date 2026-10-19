@@ -46,15 +46,15 @@
 
 ### Sample Questions & Model Answers
 1. **How often do you exercise?**
-   * I usually exercise three or four times a week, mostly in the evening. I often go to the gym or take a bike ride after work because I want to stay healthy and reduce stress. I always feel more energetic and relaxed afterwards.
+    I usually exercise three or four times a week, mostly in the evening. I often go to the gym or take a bike ride after work because I want to stay healthy and reduce stress. I always feel more energetic and relaxed afterwards.
 2. **When do you usually listen to music?**
-   * I tend to listen to music in the evening, especially when I have some free time. I usually listen to my favourite songs while relaxing at home because music helps me unwind after a busy day. It always puts me in a better mood.
+    I tend to listen to music in the evening, especially when I have some free time. I usually listen to my favourite songs while relaxing at home because music helps me unwind after a busy day. It always puts me in a better mood.
 3. **Where do you usually study?**
-   * I usually study at home because it is quiet and comfortable. I normally sit at my desk and study in the evening, especially when I have an important exam. I can concentrate better there, so I feel more productive.
+    I usually study at home because it is quiet and comfortable. I normally sit at my desk and study in the evening, especially when I have an important exam. I can concentrate better there, so I feel more productive.
 4. **When do you usually meet your friends?**
-   * I normally meet my friends at the weekend because we are all quite busy during the week. We often go to a coffee shop or have dinner together and talk about our daily lives. I always feel happy and relaxed after spending time with them.
+    I normally meet my friends at the weekend because we are all quite busy during the week. We often go to a coffee shop or have dinner together and talk about our daily lives. I always feel happy and relaxed after spending time with them.
 5. **Where do you usually go in your free time?**
-   * I often go to a coffee shop near my home when I have some free time. I usually meet my friends there or read a book because it is a peaceful place to relax. I always feel refreshed after spending some time there.
+    I often go to a coffee shop near my home when I have some free time. I usually meet my friends there or read a book because it is a peaceful place to relax. I always feel refreshed after spending some time there.
 
 ---
 
