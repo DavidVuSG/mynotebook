@@ -131,23 +131,23 @@ Points: **Who they are** → **What they are like** → **How they changed me**
 
 ### 5.1 By function
 
-| Function | Words | Use in a sentence |
-|---|---|---|
-| **Reason** | because · since · as · the main reason is that · that's why · due to | I exercise **because** it reduces stress. |
-| **Example** | for example · for instance · such as · like · especially · in particular | I enjoy sports **such as** badminton. |
-| **Add** | and · also · besides · in addition · apart from that · moreover · what's more · not only… but also | **Besides**, it saves me a lot of time. |
-| **Contrast** | but · however · although · even though · while · on the other hand · whereas | **Although** I'm busy, I still exercise. |
-| **Result** | so · as a result · therefore · consequently · that's why · thanks to this | **As a result**, I feel more confident. |
-| **Order** | first · second · third · firstly · after that · then · next · afterwards · finally | **First**, it helps me relax. **Finally**, I go home and rest. |
-| **Time** | when · while · before · after · as soon as · during · until · whenever | I was studying **when** my friend called. |
-| **Condition** | if · unless · as long as · otherwise | **If** I have free time, I go jogging. |
-| **Purpose** | to · in order to · so that | I go to the gym **in order to** stay fit. |
-| **Opinion** | in my opinion · personally, I believe · from my point of view · I strongly believe · to be honest · as far as I'm concerned | **From my point of view**, it is necessary. |
-| **Agree / Disagree** | Yes, definitely · Yes, I do · Absolutely · I totally agree · Not really · I don't think so · I partly agree | **Not really.** I don't think it's entirely good. |
-| **Compare** | similarly · likewise · in the same way · compared with · more… than | **Similarly**, I don't prefer Singapore. |
-| **Emphasis** | in fact · actually · indeed · especially · above all | **Above all**, it's good for my health. |
-| **Conclusion** | to sum up · in conclusion · all in all · overall · in short | **To sum up**, I strongly believe that… |
-| **Fillers** | Well, let me think… · That's an interesting question. · Let me see… · To be honest… · Actually… | **Well, let me think…** I usually go jogging. |
+| Function             | Words                                                                                                                       | Use in a sentence                                              |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **Reason**           | because · since · as · the main reason is that · that's why · due to                                                        | I exercise **because** it reduces stress.                      |
+| **Example**          | for example · for instance · such as · like · especially · in particular                                                    | I enjoy sports **such as** badminton.                          |
+| **Add**              | and · also · besides · in addition · apart from that · moreover · what's more · not only… but also                          | **Besides**, it saves me a lot of time.                        |
+| **Contrast**         | but · however · although · even though · while · on the other hand · whereas                                                | **Although** I'm busy, I still exercise.                       |
+| **Result**           | so · as a result · therefore · consequently · that's why · thanks to this                                                   | **As a result**, I feel more confident.                        |
+| **Order**            | first · second · third · firstly · after that · then · next · afterwards · finally                                          | **First**, it helps me relax. **Finally**, I go home and rest. |
+| **Time**             | when · while · before · after · as soon as · during · until · whenever                                                      | I was studying **when** my friend called.                      |
+| **Condition**        | if · unless · as long as · otherwise                                                                                        | **If** I have free time, I go jogging.                         |
+| **Purpose**          | to · in order to · so that                                                                                                  | I go to the gym **in order to** stay fit.                      |
+| **Opinion**          | in my opinion · personally, I believe · from my point of view · I strongly believe · to be honest · as far as I'm concerned | **From my point of view**, it is necessary.                    |
+| **Agree / Disagree** | Yes, definitely · Yes, I do · Absolutely · I totally agree · Not really · I don't think so · I partly agree                 | **Not really.** I don't think it's entirely good.              |
+| **Compare**          | similarly · likewise · in the same way · compared with · more… than                                                         | **Similarly**, I don't prefer Singapore.                       |
+| **Emphasis**         | in fact · actually · indeed · especially · above all                                                                        | **Above all**, it's good for my health.                        |
+| **Conclusion**       | to sum up · in conclusion · all in all · overall · in short                                                                 | **To sum up**, I strongly believe that…                        |
+| **Fillers**          | Well, let me think… · That's an interesting question. · Let me see… · To be honest… · Actually…                             | **Well, let me think…** I usually go jogging.                  |
 
 ### 5.2 Which connectors for which part
 
@@ -220,12 +220,12 @@ Short:    I play badminton.
 
 ### 5B.4 Adjectives for reasons and opinions
 
-| Use | Words |
-|---|---|
-| Good things | beneficial · convenient · affordable · enjoyable · rewarding · useful · practical · safe |
-| Bad things | tiring · expensive · crowded · stressful · time-consuming · inconvenient · risky · boring |
-| Places | peaceful · quiet · lively · crowded · spacious · cosy |
-| People | hard-working · caring · supportive · patient · honest · friendly · responsible · inspiring |
+| Use         | Words                                                                                      |
+| ----------- | ------------------------------------------------------------------------------------------ |
+| Good things | beneficial · convenient · affordable · enjoyable · rewarding · useful · practical · safe   |
+| Bad things  | tiring · expensive · crowded · stressful · time-consuming · inconvenient · risky · boring  |
+| Places      | peaceful · quiet · lively · crowded · spacious · cosy                                      |
+| People      | hard-working · caring · supportive · patient · honest · friendly · responsible · inspiring |
 
 ---
 
