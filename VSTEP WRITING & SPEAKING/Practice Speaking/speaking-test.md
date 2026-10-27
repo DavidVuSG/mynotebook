@@ -38,7 +38,12 @@ Overall pass mark: **50/100**. Personal target: **55/100**, with Speaking as the
 ---
 
 
-Good morning. My name is Nguyen Nguyen. I graduated from the University of Saigon in 2019 with a degree in nuclear engineering physics. Since high school, I've loved physics. My thesis focused on treating radium contamination in soil and water, and it taught me how to design experiments, analyze data, and communicate results clearly. After graduation, I worked as a product quality inspector at Bureau Veritas Vietnam, and later as a quality supervisor at MPE Electric, where I learned to be very careful and responsible. At the same time, through tutoring, I discovered I really enjoy teaching physics. That's why I want to join your master's program: to strengthen my physics knowledge, and teaching methods so I can explain physics clearly to high school students.
+Good morning. My name is Nguyen Nguyen. I graduated from the University of Saigon in 2019 with a degree in nuclear engineering physics. 
+Since high school, I've loved physics. My thesis focused on treating radium contamination in soil and water, and it taught me how to design experiments, analyze data, and communicate results clearly. 
+
+After graduation, I worked as a product quality inspector at Bureau Veritas Vietnam, and later as a quality supervisor at MPE Electric, where I learned to be very careful and responsible. 
+
+At the same time, through tutoring, I discovered I really enjoy teaching physics. That's why I want to join your master's program: to strengthen my physics knowledge, and teaching methods so I can explain physics clearly to high school students.
 
 
 ## 3. Guided conversation (15 points)
