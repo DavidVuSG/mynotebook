@@ -27,11 +27,11 @@ Overall pass mark: **50/100**. Personal target: **55/100**, with Speaking as the
 
 > Good morning. My name is Vu Quang Nguyen. I graduated from the University of Science, VNU-HCM, in 2019, with a degree in Nuclear Engineering from the Faculty of Physics and Engineering Physics.
 >
-> I have loved physics since high school. For my thesis, I developed a procedure to treat radium contamination in soil and water, using the BCR and MnO2 methods. This work taught me how to do experiments, analyze data, and present results.
+> I have loved physics since high school. For my thesis, I developed a procedure to treat radium contamination in soil and water, which taught me how to do experiments, analyze data, and present results.
 >
 > I have also worked as a physics tutor, helping high school students prepare for the national exam. After graduation, I worked as a product quality inspector at Bureau Veritas Vietnam from September 2020 to November 2022. Since 2022, I have worked as a quality supervisor at MPE Electric Company. These jobs made me careful, accurate, and responsible.
 >
-> Through teaching and working, I realized that I want to become a high school physics teacher. So I chose the master's program in Engineering Physics, in experimental physics teaching. I want to improve my knowledge and learn STEM teaching methods, so that students can learn physics in a practical and easy way.
+> Through teaching and working, I realized that I want to become a high school physics teacher. So I chose the master's program in Engineering Physics, in experimental physics teaching fit my plan. I want to improve my knowledge and learn STEM teaching methods, so that students can learn physics in a practical and easy way.
 >
 > I chose this university because it is strong in physics, and I already know the teachers and the learning environment here. Thank you.
 
