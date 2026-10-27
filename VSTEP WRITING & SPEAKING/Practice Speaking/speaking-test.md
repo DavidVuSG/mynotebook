@@ -25,7 +25,7 @@ Overall pass mark: **50/100**. Personal target: **55/100**, with Speaking as the
 
 ### Script (replace [Name])
 
-> Good morning. My name is [Name]. I graduated from the University of Science, VNU-HCM, in 2019, with a degree in Nuclear Engineering from the Faculty of Physics and Engineering Physics.
+> Good morning. My name is Vu Quang Nguyen. I graduated from the University of Science, VNU-HCM, in 2019, with a degree in Nuclear Engineering from the Faculty of Physics and Engineering Physics.
 >
 > I have loved physics since high school. For my thesis, I developed a procedure to treat radium contamination in soil and water, using the BCR and MnO2 methods. This work taught me how to do experiments, analyze data, and present results.
 >
